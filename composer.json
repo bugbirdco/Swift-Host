@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
-        "bugbirdco/swift-module": "*"
+        "bugbirdco/swift-module": "self.version"
     },
     "config": {
         "optimize-autoloader": true,
