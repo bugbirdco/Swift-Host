@@ -1,7 +1,7 @@
 {
     "name": "bugbirdco/swift-host",
     "type": "project",
-    "description": "Contained service module host for swift module(s). Included Vue and Bootstrap. Based on @bugbirdco/quick",
+    "description": "Contained service module host for swift module(s). Included Vue and Bootstrap. Based on bugbirdco/Quick",
     "license": "BSD-3-Clause",
     "require": {
         "php": "^7.2.5",
