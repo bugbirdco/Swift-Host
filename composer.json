@@ -17,20 +17,6 @@
             "dont-discover": []
         }
     },
-    "autoload": {
-        "psr-4": {
-            "App\\": "src/"
-        },
-        "classmap": [
-            "src/Database/seeds",
-            "src/Database/factories"
-        ]
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Tests\\": "tests/"
-        }
-    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
